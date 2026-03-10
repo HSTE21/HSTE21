@@ -61,6 +61,8 @@ deep learning to cardiac signal processing, surgical robotics, and medical image
 ![Robotics Toolbox](https://img.shields.io/badge/Robotics%20Toolbox-FF6600?style=flat-square)
 ![PyBullet](https://img.shields.io/badge/PyBullet-333333?style=flat-square)
 ![SpatialMath](https://img.shields.io/badge/SpatialMath-0078D4?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+
 
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
