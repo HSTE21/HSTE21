@@ -108,6 +108,7 @@ deep learning to cardiac signal processing, surgical robotics, and medical image
 | Project | Description | Stack |
 |---|---|---|
 | [🦾 Faze4 Robotic Arm Simulator](https://github.com/HSTE21/Faze4-Robotic-arm-simulator) | Forward/inverse kinematics simulation of the Faze4 open-source 6-DOF robotic arm | Robotics Toolbox · PyBullet · MATLAB |
+| [✋ Faze4 Hand Tracking Control](https://github.com/HSTE21/faze4-hand-tracking) | Real-time hand-tracking control voor Faze4 arm: MediaPipe tracking, PyBullet IK, Unity TCP stream met grip detectie en anti-jitter smoothing | MediaPipe · PyBullet · OpenCV · Unity |
 
 ### 💻 Software
 
