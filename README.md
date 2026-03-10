@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Hans 👋</h1>
-  <p><em>Technical Medicine student @ University of Twente · Deep Learning· medical imaging· Surgical Robotics</em></p>
+  <p><em>Technical Medicine student @ University of Twente · Deep Learning · medical imaging · Surgical Robotics</em></p>
 
   <a href="https://www.linkedin.com/in/stegehuis-hans/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
