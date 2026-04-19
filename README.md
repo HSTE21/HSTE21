@@ -33,10 +33,11 @@ I'm a **Technical Medicine** master's student at the **University of Twente**, w
 
 ## 🛠️ Tech Stack
 
-- **Languages:**
-- **Medical AI:**
-- **Vision & Robotics:**
-- **Infrastructure:**
+- **Languages:** Python · MATLAB
+- **Medical AI:** PyTorch · TensorFlow · MONAI · Jupyter
+- **Vision & Robotics:** OpenCV · MediaPipe · PyBullet · Unity
+- **Infrastructure:** Docker · Linux · Git · Raspberry Pi
+- **Medical imaging ecosystem:** SimpleITK · nibabel · pydicom · PyRadiomics · ART
 
 > *Familiar with ecosystem libraries including NumPy, Pandas, Scikit-learn, SimpleITK, PyRadiomics, nibabel, pydicom, and ART.*
 
